@@ -6,7 +6,7 @@
     <meta name="keywords" content="Ogani, unica, creative, html" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>Ogani | Template</title>
+    <title>Future Bookstore | Only original book</title>
 
     <!-- Google Font -->
     <link
@@ -101,8 +101,8 @@
       </div>
       <div class="humberger__menu__contact">
         <ul>
-          <li><i class="fa fa-envelope"></i> hello@colorlib.com</li>
-          <li>Free Shipping for all Order of $99</li>
+          <li><i class="fa fa-envelope"></i> support@futurebookstore.com</li>
+          {{-- <li>Free Shipping for all Order of $99</li> --}}
         </ul>
       </div>
     </div>
@@ -116,8 +116,8 @@
             <div class="col-lg-6 col-md-6">
               <div class="header__top__left">
                 <ul>
-                  <li><i class="fa fa-envelope"></i> hello@colorlib.com</li>
-                  <li>Free Shipping for all Order of $99</li>
+                  <li><i class="fa fa-envelope"></i> support@futurebookstore.com</li>
+                  {{-- <li>Free Shipping for all Order of $99</li> --}}
                 </ul>
               </div>
             </div>
@@ -215,7 +215,7 @@
             <div class="hero__search">
               <div class="hero__search__form">
                 <form action="#">
-                  <input type="text" placeholder="What do yo u need?" />
+                  <input type="text" placeholder="What book are you looking for?" />
                   <button type="submit" class="site-btn">SEARCH</button>
                 </form>
               </div>
@@ -224,7 +224,7 @@
                   <i class="fa fa-phone"></i>
                 </div>
                 <div class="hero__search__phone__text">
-                  <h5>+65 11.188.888</h5>
+                  <h5>+021 123 456 789</h5>
                   <span>support 24/7 time</span>
                 </div>
               </div>
@@ -247,9 +247,9 @@
                 <a href="./index.html"><img src="{{ asset('frontend/img/logo.png') }}" alt="" /></a>
               </div>
               <ul>
-                <li>Address: 60-49 Road 11378 New York</li>
-                <li>Phone: +65 11.188.888</li>
-                <li>Email: hello@colorlib.com</li>
+                <li>Address: Jl. Buitenzorg 1 No 1, Kota Bogor</li>
+                <li>Phone: +021 123 456 789</li>
+                <li>Email: support@futurebookstore.com</li>
               </ul>
             </div>
           </div>
@@ -265,12 +265,8 @@
                 <li><a href="#">Our Sitemap</a></li>
               </ul>
               <ul>
-                <li><a href="#">Who We Are</a></li>
                 <li><a href="#">Our Services</a></li>
-                <li><a href="#">Projects</a></li>
-                <li><a href="#">Contact</a></li>
-                <li><a href="#">Innovation</a></li>
-                <li><a href="#">Testimonials</a></li>
+                <li><a href="#">Career</a></li>
               </ul>
             </div>
           </div>
@@ -303,9 +299,9 @@
                   <script>
                     document.write(new Date().getFullYear());
                   </script>
-                  All rights reserved | This template is made with
-                  <i class="fa fa-heart" aria-hidden="true"></i> by
-                  <a href="https://colorlib.com" target="_blank">Colorlib</a>
+                  All rights reserved | Created by
+                  <a href="" target="_blank">Harri Hidayat</a>
+                  <i class="fa fa-heart" aria-hidden="true"></i>
                   <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                 </p>
               </div>
